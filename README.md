@@ -1,6 +1,6 @@
-# prueba-tecnica
+# Prueba-Tecnica
 
-## Build Setup
+## Configuración de compilación
 
 ```bash
 # install dependencies
