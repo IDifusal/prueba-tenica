@@ -1,19 +1,19 @@
-# prueba-tecnica
+# Prueba-Tecnica
 
-## Build Setup
+## Configuración de compilación
 
 ```bash
-# install dependencies
+# instalar las dependencias
 $ npm install
 
-# serve with hot reload at localhost:3000
+# activar el hot reaload usualmente usa el puerto localhost:3000
 $ npm run dev
 
-# build for production and launch server
+# Ejecutar para produccion y encender el servidor
 $ npm run build
 $ npm run start
 
-# generate static project
+# generar archivos estáticos
 $ npm run generate
 ```
 
