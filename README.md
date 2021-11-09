@@ -1,4 +1,6 @@
 # Prueba-Tecnica
+#Deployed at Vercel (https://prueba-tenica.vercel.app/)
+
 
 ## Configuración de compilación
 
